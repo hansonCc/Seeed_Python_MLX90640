@@ -14,6 +14,3 @@ def main():
         print("The time: %f"%(end - start))
 if __name__  == '__main__':
     main()
-
-if __name__  == '__main__':
-    main()
